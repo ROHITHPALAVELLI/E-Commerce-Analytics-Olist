@@ -52,8 +52,8 @@ The project uses the Brazilian E-Commerce Public Dataset by Olist.
 
 ## Author
 
-**Shashidhar**
+PALAVELLI ROHITH
 
 ## Connect With Me
 
-LinkedIn: Add your LinkedIn profile link here.
+LinkedIn: www.linkedin.com/in/rohithpalavelli
